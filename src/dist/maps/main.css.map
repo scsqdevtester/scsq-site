@@ -1,0 +1,1 @@
+{"version":3,"sources":["_reset.scss"],"names":[],"mappings":"AAAA;EAGE,AAAa","file":"main.css","sourcesContent":["// reset\n\nbody {\n  font-family: sans-serif;\n}"],"sourceRoot":"/source/"}
