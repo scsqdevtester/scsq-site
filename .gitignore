@@ -1,0 +1,4 @@
+*.iml
+.indea
+atlassian-ide-plugin.xml
+node_modules
